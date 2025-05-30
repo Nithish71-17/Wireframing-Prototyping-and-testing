@@ -10,7 +10,7 @@ Creating a visual blueprint of a digital product is critical before diving into 
 
 ---
 
-## DESIGN STEPS
+## DESIGN STEPS  
 
 ### 1. Select Application Type
 
