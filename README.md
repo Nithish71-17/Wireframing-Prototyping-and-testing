@@ -1,6 +1,6 @@
 # UNIT 4 – Wireframe Design for a Generic Application
 
-## AIM
+## AIM 
 To design low-fidelity wireframes for a generic application or website using Balsamiq, covering five essential screens while focusing on layout structure, navigation flow, and UI element placement.
 
 ---
